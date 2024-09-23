@@ -1,6 +1,8 @@
 # ReadMe
 🧑‍🎓 I am currently pursuing BE-CSE in SNSCE
+
 ☕ I'm currently learning JAVA
+
 💻 Ask me about Web Development
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohanraj-r--) 
