@@ -55,6 +55,14 @@
 
 ###
 
+<h2 align="left">LeetCode Stats</h2>
+
+###
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohanraj-R?theme=dark&font=Raleway&ext=heatmap)
+
+###
+
 <h2 align="left">GitHub Stats</h2>
 
 ###
